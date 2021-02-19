@@ -1,0 +1,30 @@
+
+{
+	"products":[
+		{
+		"name":"Redmi Note 9 Pro Max",
+		"image":"img/1.jpg",
+		"price":"18000",
+		"dprice":"17000"},
+		{
+		"name":"Realme 7 pro",
+		"image":"img/2.jpg",
+		"price":"21000",
+		"dprice":"18000"},
+		{
+		"name":"Oneplus Nord",
+		"image":"img/3.jpg",
+		"price":"30000",
+		"dprice":"28000"},
+		{
+		"name":"Poco M2 Pro",
+		"image":"img/4.jpeg",
+		"price":"14000",
+		"dprice":"11000"},
+		{
+		"name":"Iphone 11 pro",
+		"image":"img/5.jpg",
+		"price":"86000",
+		"dprice":"80000"}
+	]
+}
